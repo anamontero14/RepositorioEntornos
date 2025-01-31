@@ -5,6 +5,7 @@ public class ClaseAna {
 	public static void main(String[] args) {
 		
 		System.out.println("Clase de ana");
+		System.out.println("Hola esta es mi clase");
 
 	}
 
